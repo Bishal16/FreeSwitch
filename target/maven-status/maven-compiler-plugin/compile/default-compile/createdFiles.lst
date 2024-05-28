@@ -1,0 +1,12 @@
+freeswitch/outbound/EventProcessor.class
+freeswitch/inbound/User.class
+freeswitch/outbound/OutboundApp.class
+freeswitch/outbound/SampleOutboundHandler.class
+freeswitch/outbound/MultiThreadedEventProcessor.class
+freeswitch/outbound/FsMessageSenderThread.class
+freeswitch/inbound/RegisteredUser.class
+freeswitch/inbound/ConcurrentUser.class
+freeswitch/inbound/InboundApp.class
+freeswitch/outbound/CallOperator.class
+freeswitch/outbound/SamplePipelineFactory.class
+freeswitch/inbound/InboundApp$1.class
